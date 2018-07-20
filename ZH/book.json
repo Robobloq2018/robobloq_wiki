@@ -1,9 +1,8 @@
 {
 "plugins": ["expandable-chapters-small", "-lunr", "-search", "search-pro"],
-"pluginsConfig": {
-    "search-pro": {
-        "cutWordLib": "nodejieba",
-        "defineWord" : ["Gitbook Use"]
+"links" : {
+    "sidebar" : {
+        "Robobloq" : "http://www.robobloq.cn/"
       }
-    }
+  }
 }

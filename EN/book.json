@@ -1,3 +1,8 @@
 {
-"plugins": ["expandable-chapters-small"]
+"plugins": ["expandable-chapters-small"],
+"links" : {
+    "sidebar" : {
+        "Robobloq" : "http://www.robobloq.com/"
+      }
+  }
 }
