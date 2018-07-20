@@ -5,14 +5,14 @@ Building instructions
 ---
 
 <div align=center>
-[![](/img/K1/img_4.jpg)](https://static.robobloq.cn/wiki/02.pdf)
-　　　　[![](/img/K1/img_5.jpg)](https://static.robobloq.cn/wiki/03.pdf)
-　　　　[![](/img/K1/img_6.jpg)](https://static.robobloq.cn/wiki/05.pdf)
+[![](/img/K1/4.jpg)](https://static.robobloq.cn/wiki/02.pdf)
+　　　　[![](/img/K1/5.jpg)](https://static.robobloq.cn/wiki/03.pdf)
+　　　　[![](/img/K1/6.jpg)](https://static.robobloq.cn/wiki/05.pdf)
 
 <div align=center>
-[![](/img/K1/img_7.jpg)](https://static.robobloq.cn/wiki/04.pdf)
-　　　　[![](/img/K1/img_8.jpg)](https://static.robobloq.cn/wiki/06.pdf)
-　　　　[![](/img/K1/img_9.jpg)](https://static.robobloq.cn/wiki/01.pdf)
+[![](/img/K1/7.jpg)](https://static.robobloq.cn/wiki/04.pdf)
+　　　　[![](/img/K1/8.jpg)](https://static.robobloq.cn/wiki/06.pdf)
+　　　　[![](/img/K1/9.jpg)](https://static.robobloq.cn/wiki/01.pdf)
 
 ---
 

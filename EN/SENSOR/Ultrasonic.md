@@ -6,7 +6,7 @@
 
 **2.Specification**
 
-![](/img/senor/c-1.png)
+![](/img/senor/c-1.jpg)
 
 **3.Features**
 
