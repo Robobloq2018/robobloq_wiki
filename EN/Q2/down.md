@@ -14,9 +14,9 @@ Building instructions
 　　　　[![](/img/K1/8.jpg)](https://static.robobloq.cn/wiki/06.pdf)
 　　　　[![](/img/K1/9.jpg)](https://static.robobloq.cn/wiki/01.pdf)
 
----
-
 Software
+
+---
 
 <div align=center>
 [![](/img/K1/img_10.png)](http://www.robobloq.com/support/download)        　　　　　　　　             [![](/img/K1/img_11.png)](http://www.robobloq.com/support/download)
