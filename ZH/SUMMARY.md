@@ -18,5 +18,5 @@
 * [光线传感器](SENSOR/light.md)
 * [人体热释红外传感器](SENSOR/PIR_motion.md)
 * [声音传感器](SENSOR/sound.md)
-* [温湿度传感器在线教案](SENSOR/Temperature_humidity.md)
+* [温湿度传感器](SENSOR/Temperature_humidity.md)
 * [巡线传感器](SENSOR/Line_follower.md)
