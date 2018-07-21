@@ -2,7 +2,7 @@
 "plugins": ["expandable-chapters-small", "-lunr", "-search", "search-pro"],
 "links" : {
     "sidebar" : {
-        "Robobloq" : "http://www.robobloq.cn/"
+        "Robobloq官网" : "http://www.robobloq.cn/"
       }
   }
 }

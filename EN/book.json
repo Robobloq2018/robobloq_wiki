@@ -2,7 +2,7 @@
 "plugins": ["expandable-chapters-small"],
 "links" : {
     "sidebar" : {
-        "Robobloq" : "http://www.robobloq.com/"
+        "Robobloq HOME" : "http://www.robobloq.com/"
       }
   }
 }
