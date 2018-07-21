@@ -1,0 +1,8 @@
+{
+"plugins": ["expandable-chapters-small", "-lunr", "-search", "search-pro"],
+"links" : {
+    "sidebar" : {
+        "Robobloq官网" : "http://www.robobloq.cn/"
+      }
+  }
+}
