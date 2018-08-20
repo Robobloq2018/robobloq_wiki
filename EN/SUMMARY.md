@@ -6,6 +6,7 @@
     * [Try PC programming ](Q1/programming.md)
     * [Exploring C programming](Q1/c.md)
     * [Download](Q1/down.md)
+    * [Precautions](Q1/Precautions.md)
     * [FAQ](http://www.robobloq.com/support/faq)
 * [Qoopers robot kit](Q2/Introduction.md)
     * [Playing mode](Q2/play.md)
@@ -13,6 +14,7 @@
     * [Try PC programming ](Q2/programming.md)
     * [Exploring C programming](Q2/c.md)
     * [Download](Q2/down.md)
+    * [Precautions](Q2/Precautions.md)
     * [FAQ](http://www.robobloq.com/support/faq)
 * [Ultrasonic sensor](SENSOR/Ultrasonic.md)
 * [Light sensor ](SENSOR/light.md)
@@ -20,3 +22,4 @@
 * [Sound sensor](SENSOR/sound.md)
 * [Temperature and humidity sensor](SENSOR/humidity.md)
 * [Line follower sensor](SENSOR/line.md)
+

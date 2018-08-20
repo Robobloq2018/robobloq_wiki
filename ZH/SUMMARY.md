@@ -6,6 +6,7 @@
     * [试一试](Q1/Qshi.md)
     * [探索C语言](Q1/Qc.md)
     * [下载专区](Q1/Qdown.md)
+    * [注意事项](Q1/Precautions.md)
     * [常见问题](http://www.robobloq.cn/support/faq)
 * [Q军团机器人套件](Q2/Q2.md)
     * [玩一玩](Q2/wan.md)
@@ -13,6 +14,7 @@
     * [试一试](Q2/shi.md)
     * [探索C语言](Q2/c.md)
     * [下载专区](Q2/down.md)
+    * [注意事项](Q2/Precautions.md)
     * [常见问题](http://www.robobloq.cn/support/faq)
 * [超声波传感器](SENSOR/Ultrasonic.md)
 * [光线传感器](SENSOR/light.md)
@@ -20,3 +22,4 @@
 * [声音传感器](SENSOR/sound.md)
 * [温湿度传感器](SENSOR/Temperature_humidity.md)
 * [巡线传感器](SENSOR/Line_follower.md)
+
