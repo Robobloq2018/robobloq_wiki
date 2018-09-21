@@ -1,5 +1,5 @@
 {
-"plugins": ["expandable-chapters-small", "-lunr", "-search", "search-pro"],
+"plugins": ["expandable-chapters-small","back-to-top-button","-lunr", "-search", "search-plus-mod"],
 "links" : {
     "sidebar" : {
         "Robobloq官网" : "http://www.robobloq.cn/"

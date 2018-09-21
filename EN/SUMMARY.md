@@ -16,6 +16,7 @@
     * [Download](Q2/down.md)
     * [Precautions](Q2/Precautions.md)
     * [FAQ](http://www.robobloq.com/support/faq)
+* [Update firmware](software/update.md)
 * [Ultrasonic sensor](SENSOR/Ultrasonic.md)
 * [Light sensor ](SENSOR/light.md)
 * [PIR motion sensor](SENSOR/pir.md)

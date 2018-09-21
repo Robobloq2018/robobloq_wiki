@@ -1,5 +1,5 @@
 {
-"plugins": ["expandable-chapters-small"],
+"plugins": ["expandable-chapters-small","back-to-top-button","-lunr", "-search", "search-plus-mod"],
 "links" : {
     "sidebar" : {
         "Robobloq HOME" : "http://www.robobloq.com/"

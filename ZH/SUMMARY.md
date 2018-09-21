@@ -16,6 +16,7 @@
     * [下载专区](Q2/down.md)
     * [注意事项](Q2/Precautions.md)
     * [常见问题](http://www.robobloq.cn/support/faq)
+* [更新固件](software/update.md)
 * [超声波传感器](SENSOR/Ultrasonic.md)
 * [光线传感器](SENSOR/light.md)
 * [人体热释红外传感器](SENSOR/PIR_motion.md)
