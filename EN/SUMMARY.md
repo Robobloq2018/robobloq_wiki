@@ -3,20 +3,26 @@
 * [Q Scout robot kit](README.md)
     * [Playing mode](Q-Scout/play.md)
     * [Learning programming](Q-Scout/learn.md)
-    * [Try PC programming ](Q-Scout/programming.md)
-    * [Exploring C programming](Q-Scout/c.md)
     * [Download](Q-Scout/down.md)
-    * [Precautions](Q-Scout/Precautions.md)
-    * [FAQ](http://www.robobloq.com/support/faq)
 * [Qoopers robot kit](Qoopers/Introduction.md)
     * [Playing mode](Qoopers/play.md)
     * [Learning programming](Qoopers/learn.md)
-    * [Try PC programming ](Qoopers/programming.md)
-    * [Exploring C programming](Qoopers/c.md)
     * [Download](Qoopers/down.md)
-    * [Precautions](Qoopers/Precautions.md)
-    * [FAQ](http://www.robobloq.com/support/faq)
-* [Update firmware](software/update.md)
+
+-----
+* [Precautions](Qoopers/Precautions.md)
+* [FAQ](http://www.robobloq.com/support/faq)
+
+## Robobloq Robot Programming Guide
+* [Try It Out - Robobloq (PC)](Q-Scout/programming.md)
+    * [1、Connect robobloq robot](software/connection.md)
+    * [2、Update robot firmware](software/update.md)
+    * [3、Flash Scratch Programs to Robot](software/scratch_pc.md)
+    * [4、Robot python programming API documentation](http://api.robobloq.com/)
+    * [5、Exploring C programming](Qoopers/c.md)
+
+## Sensor introduction and application
+
 * [Ultrasonic sensor](SENSOR/Ultrasonic.md)
 * [Light sensor ](SENSOR/light.md)
 * [PIR motion sensor](SENSOR/pir.md)
