@@ -1,5 +1,7 @@
 # Summary
 
+
+
 * [Q侦察兵机器人套件](README.md)
     * [1、玩一玩](Q-Scout/Qwan.md)
     * [2、学一学](Q-Scout/Qxue.md)
@@ -9,10 +11,11 @@
     * [2、学一学](Qoopers/xue.md)
     * [3、下载专区](Qoopers/down.md)
 
+
 ---
 
 * [注意事项](Qoopers/Precautions.md)
-* [常见问题](http://www.robobloq.cn/support/faq)
+* [常见问题](FAQ/faq.md)
 
 ---
 
@@ -23,6 +26,10 @@
     * [3、烧录机器人Scratch程序](software/scratch_pc.md)
     * [4、机器人python编程API文档](http://api.robobloq.cn/)
     * [5、探索C语言](Qoopers/c.md)
+
+---
+### 配件
+* [蓝牙适配器使用说明](acc/bluetooth.md)
 
 ---
 

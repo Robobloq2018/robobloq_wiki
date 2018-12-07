@@ -11,7 +11,7 @@
 
 -----
 * [Precautions](Qoopers/Precautions.md)
-* [FAQ](http://www.robobloq.com/support/faq)
+* [FAQ](FAQ/faq.md)
 
 ## Robobloq Robot Programming Guide
 * [Try It Out - Robobloq (PC)](Q-Scout/programming.md)
@@ -20,6 +20,9 @@
     * [3、Flash Scratch Programs to Robot](software/scratch_pc.md)
     * [4、Robot python programming API documentation](http://api.robobloq.com/)
     * [5、Exploring C programming](Qoopers/c.md)
+
+### Accessories
+* [Bluetooth adapter instructions](acc/bluetooth.md)
 
 ## Sensor introduction and application
 
