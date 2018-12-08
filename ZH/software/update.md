@@ -1,14 +1,14 @@
 ## 如何更新Robobloq机器人的固件？
 
-1, 恢复最新的官方固件
+1, 更新最新的官方固件
 
-　　1.1 Download address：http://www.robobloq.com/support/download
+　　1.1 下载地址：http://www.robobloq.com/support/download
 
 ![](/img/software/PC_down_ZH.gif)
 
 　　1.2 选择要下载的相应版本，使用win10 X64位版本来演示以下内容
 
-　　1.3 单击Robobloq以打开软件　
+　　1.3 单击Robobloq图标以打开软件　
 
 ![](/img/software/ico.png)
 
